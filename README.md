@@ -16,14 +16,17 @@ Ce projet propose deux implémentations d'une API REST pour la gestion de super-
 ## Lancement de l'API
 
 ### API JSON
-
+```
 cd api-superheros_JSON
 nmp start pour la lancer | nmp run dev pour la tester
+```
 
 ### API SQL
 
+```
 cd api-superheros_SQL
 nmp start pour la lancer | nmp run dev pour la tester
+```
 
 ## Endpoints disponible
 
